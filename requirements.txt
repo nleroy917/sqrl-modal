@@ -1,0 +1,7 @@
+modal
+openai
+snowflake-connector-python
+sqlglot
+rich
+cryptography
+python-dotenv
